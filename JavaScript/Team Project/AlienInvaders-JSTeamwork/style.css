@@ -1,0 +1,39 @@
+html{
+    background-image: url("images/html-back.jpg");
+    background-size: 100%,100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    width: 99%;
+}
+div{
+    margin: auto;
+    width: 500px;
+    overflow: hidden;
+
+}
+canvas{
+    background-image: url("images/backg.jpg");
+    border-radius: 10px;
+}
+
+.info{
+    color: #FFFFFF;
+    font-family: 'Audiowide', cursive;
+    font-size: 20pt;
+}
+
+#lives{
+    float: left;
+    width: 50%;
+}
+
+#levels{
+    text-align: right;
+    float: right;
+    width: 50%;
+}
