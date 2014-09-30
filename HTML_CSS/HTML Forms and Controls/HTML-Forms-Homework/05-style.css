@@ -1,0 +1,62 @@
+body {
+            font-family: Lucidia, Trebuchet MS, sans-serif;
+        }
+        button {
+            width: 30%;
+            height: 200px;
+            border: solid 1px #D9EEFA;
+            border-radius: 5px;
+            background-color: #fff;
+            text-align: left;
+        }
+        .price {
+            width: 100px;
+            height:30px;
+            background-color: #2D4760;
+            color: white;
+            border-top-left-radius: 5px;
+            padding-top: 10px;
+            float: right;
+            text-align: center;
+            margin-bottom: 0px;
+        }
+        #products {
+            float: left;
+            display: inline-block;
+            width: 70%;
+        }
+        #filter {
+            float: left;
+            width: 180px;
+            border: 1px solid #e7f4fc;
+            padding: 0 5px;
+        }
+        #filter p {
+            width: 100%;
+            text-align: center;
+            float: left;
+            margin: 20px 0 5px;
+            font-size: 13px;
+        }
+        .max {
+            float: right;
+            padding-right: 10px;
+        }
+        .min {
+            float: left;
+            padding-left: 10px;
+        }
+        #filter input {
+            width: 90%;
+        }
+        .model {
+            font-weight: bold;
+            font-family:  Calibri;
+            font-size: 1.0em;
+            text-align: left;
+        }
+        .param {
+            font-family:  Calibri;
+            font-size: 1.0em;
+            text-align: left;
+        }

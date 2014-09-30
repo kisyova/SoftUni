@@ -1,0 +1,75 @@
+ body {
+            color: #fff;
+            background-color: #3B5997;
+            font-family: tahoma;
+        }
+        legend {
+            text-align: center;
+            color: #fff;
+        }
+        h1 {
+            text-align: center;
+            font-size: 80px;
+        }
+        #rrr {
+            font-size: 20px;
+        }
+        h2 {
+            text-align: center;
+            font-size: 40px;
+        }
+        h3 {
+            text-align: center;
+            font-size: 25px;
+        }
+        #wrapper {
+            width: 900px;
+        }
+        #no-important {
+            float: left;
+            width: 350px;
+            margin-right: 25px;
+        }
+        #important {
+            width: 450px;
+        }
+        input {
+            border-radius: 2px;
+        }
+        label {
+            font-weight: bold;
+            font-size: 12px;
+        }
+        textarea {
+            border-radius: 5px;
+            width: 98%;
+        }
+        #nr {
+            width: 15%;
+        }
+        #floor {
+            width: 15%;
+        }
+        #apart {
+            width: 15%;
+        }
+        #door {
+            width: 30%;
+        }
+        #clear {
+            width: 38%;
+            color: #3B5997;
+            font-size: 90%;
+            border-radius: 10px;
+            padding: 1.4%;
+            border: 1px solid #999;
+        }
+        #register {
+            width: 57%;
+            float: right;
+            color: #3B5997;
+            font-size: 125%;
+            border-radius: 10px;
+            padding: 1.2%;
+            border: 1px solid #999;
+        }

@@ -1,0 +1,44 @@
+table, th, td {
+            border: 2px solid black;
+            height: 25%;
+            font-family: Arial;
+        }
+        thead {
+            font-size: 50px;
+            height: 1000px;
+        }
+        table td {
+            padding: 7px;
+        }
+        #big {
+            width: 600px;
+            height: 750px;
+            font-size: 30px;
+            table-layout: fixed;
+            font-family: Veranda;
+        }
+        #nested {
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            font-size: 22px;
+            font-family: Veranda;
+        }
+        .top {
+            vertical-align: top;
+        }
+        .center {
+            vertical-align: middle;
+        }
+        .bottom {
+            vertical-align: bottom;
+        }
+        .left {
+            text-align: left;
+        }
+        .right {
+            text-align: right;
+        }
+        .hcenter {
+            text-align: center;
+        }

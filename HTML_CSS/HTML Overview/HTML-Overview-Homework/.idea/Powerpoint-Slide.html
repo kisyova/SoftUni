@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Powerpoint Slide</title>
+    <style type="text/css">
+        body {
+            background-image: url('background.png');
+            width: 800px;
+            height: auto;
+            margin: 20px;
+            padding: 30px;
+        }
+        h1 {
+            color: goldenrod;
+        }
+        h2 {
+            color: white;
+            padding-left: 30px;
+        }
+        span {
+            color: goldenrod;
+        }
+        p {
+            color: lightyellow;
+        }
+        .boxes {
+            width: 650px;
+            height: auto;
+            margin: 0 auto;
+            padding: 5px;
+            background-color: rgba(255, 250, 205, 0.1);
+            border: 1px solid rgba(255, 250, 205, 0.5);
+        }
+        h1, h2, ul {
+            font-family: Arial, sans-serif;
+        }
+        #background ul li:before {
+            content:"■ ";
+            color: #f2b254;
+            font-size:large;
+            vertical-align:middle;
+        }
+    </style>
+</head>
+<body>
+<div class="background">
+<h1>Headings and Paragraphs</h1>
+    <ul>
+        <li><h2>Heading Tags:<span>&#60;h1&gt; - &#60;h6&gt;</span></h2></li>
+            <div class="boxes">
+            <p>
+               &#60;h1&gt;Heading 1&#60;/h1&gt;<br/>
+               &#60;h2&gt;Sub heading 2&#60;/h2&gt;<br/>
+               &#60;h3&gt;Sub heading 3&#60;/h3&gt;<br/>
+            </p>
+            </div>
+        <li><h2>Paragraph Tags: <span>&#60;p&gt;</span></h2></li>
+            <div class="boxes">
+            <p>
+            &#60;p&gt;This is my first paragraph&#60;/p&gt;<br/>
+            &#60;p&gt;This is my second paragraph&#60;/p&gt;<br/>
+            </p>
+            </div>
+        <li><h2>Sections <span>&#60;div&gt;</span> and <span>&#60;span&gt;</span></h2></li>
+            <div class="boxes">
+            <p>
+             &#60;div style="backgroung: skyblue;"&gt;<br/>
+                  This is a div.<br/>
+             &#60;/div&gt;<br/>
+        </p>
+        </div>
+        </ul>
+    </div>
+</body>
+</html>

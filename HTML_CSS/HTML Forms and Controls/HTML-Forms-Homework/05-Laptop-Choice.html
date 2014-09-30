@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Laptop Choice</title>
+    <link rel="stylesheet" type="text/css" href="05-style.css">
+</head>
+
+<body>
+<div id="products">
+    <h1>Different than Apple's laptops</h1>
+    <button onclick="window.open('http://laptop.bg/laptops-asus-X502-asus_x502ca_xx042')">
+        <div class="model"><strong>ASUS X502CA-XX042</strong></div>
+        <div class="param">2-ядрен, 4GB</div>
+        <img src="asus.jpg" alt="asus">
+        <span class="price">496 лв.</span>
+    </button>
+    <button onclick="window.open('http://laptop.bg/laptops-hp-HP_255_2G-hp_255_g2_F0Z56EA')">
+        <div class="model"><strong>HP 255 G2</strong></div>
+        <div class="param">4GB, 750GB HDD, Radeon HD 8210G</div>
+        <img src="hp.jpg" alt="hp">
+        <span class="price">489 лв.</span>
+    </button>
+    <button onclick="window.open('http://laptop.bg/laptops-acer-Aspire_V5_572-acer_aspire_v5_572_NX_M9YEX_003')">
+        <div class="model"><strong>Acer Aspire V5-572</strong></div>
+        <div class="param">Intel Core i3-2375M, 8GB, 500GB HDD</div>
+        <img src="acer.jpg" alt="acer">
+        <span class="price">759 лв.</span>
+    </button>
+    <button onclick="window.open('http://laptop.bg/laptops-toshiba-Satellite_C55_A-toshiba_satellite_c55a199')">
+        <div class="model"><strong>Toshiba Satellite C55-A-199</strong></div>
+        <div class="param">15.6-инчов, Intel HD Graphics 4000</div>
+        <img src="toshiba.jpg" alt="toshiba">
+        <span class="price">769 лв.</span>
+    </button>
+    <button onclick="window.open('http://laptop.bg/laptops-lenovo-G510-lenovo_ideapad_g510_59_412561')">
+        <div class="model"><strong>Lenovo IdeaPad G510</strong></div>
+        <div class="param">Core i5-4200M, 4GB, 1TB SSHD, AMD Radeon R5 M230</div>
+        <img src="lenovo.jpg" alt="lenovo">
+        <span class="price">999 лв.</span>
+    </button>
+    <button onclick="window.open('http://laptop.bg/laptops-dell-Inspiron_3537-dell_inspiron_3537_5397063477296')">
+        <div class="model"><strong>Dell Inspiron 3537</strong></div>
+        <div class="param">i7, 8GB, Radeon 8850M, 1TB HDD</div>
+        <img src="dell.jpg" alt="dell">
+        <span class="price">1199 лв.</span>
+    </button>
+</div>
+<div id="filter">
+    <p>Price</p>
+    <span class="min">500</span>
+    <span class="max">1500</span>
+    <input type="range" name="price" min="500" max="1500">
+
+    <p>RAM</p>
+    <span class="min">2048</span>
+    <span class="max">4096</span>
+    <input type="range" name="ram" min="2048" max="4096">
+
+    <p>Disc</p>
+    <span class="min">100 GB</span>
+    <span class="max">2000 GB</span>
+    <input type="range" name="disc" min="100" max="2000">
+
+    <p>Display</p>
+    <span class="min">11.6</span>
+    <span class="max">18.4</span>
+    <input type="range" name="display" min="11.6" max="18.4">
+
+    <p>Weight</p>
+    <span class="min">1</span>
+    <span class="max">6</span>
+    <input type="range" name="weight" min="1" max="6">
+
+    <p>Warranty</p>
+    <span class="min">12 m</span>
+    <span class="max">60 m</span>
+    <input type="range" name="warranty" min="12" max="60">
+</div>
+</body>
+
+</html>

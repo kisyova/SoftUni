@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Simple Form</title>
+    <link type="text/css" rel="stylesheet" href="01-style.css">
+</head>
+<body>
+<div id="wrapper">
+    <h2>Enter the system</h2>
+    <p>It is necessary to login in Your account in order to sign in for a course.</p>
+    <form method="get" id="registration">
+        <fieldset id="reg">
+            <h3>ARE YOU NEW?
+            <span id="r">REGISTER</span>
+            </h3>
+            <input type="text" name="user" id="regUser" placeholder="User name" required="required"><br>
+            <input type="email" name="email" id="regEmail" placeholder="Email" required="required"><br>
+            <input type="password" name="password" id="regPass" placeholder="Password" required="required"><br>
+            <input type="password" name="password" id="confirmRegPass" placeholder="Confirm password" required="required"><br>
+            <input type="submit" value="Register" id="regButton">
+        </fieldset>
+    </form>
+  <form method="get">
+      <fieldset id="login">
+          <h3>ALREADY A STUDENT? LOGIN</h3>
+          <input type="text" name="user" id="logUser" placeholder="User name" required="required"><br>
+          <input type="password" name="password" id="logPass" placeholder="Password" required="required"><br>
+          <input type="checkbox" name="remember" id="remember">
+          <label for="remember" class="remember">Remember me?</label>
+          <input type="submit" value="Login" id="logButton">
+          <a href="https://softuni.bg/account/forgottenpassword">Forgot Password</a>
+      </fieldset>
+  </form>
+</div>
+</body>
+</html>

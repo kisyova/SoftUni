@@ -1,0 +1,24 @@
+body {
+    background-image: url('background.png');
+}
+h1 {
+    color: goldenrod;
+}
+h2 {
+    color: white;
+    padding-left: 30px;
+}
+span {
+    color: goldenrod;
+}
+p {
+    color: lightyellow;
+}
+.boxes {
+    width: 650px;
+    height: auto;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: rgba(255,250,205,0.1);
+    border: 1px solid rgba(255,250,205,0.5);
+}

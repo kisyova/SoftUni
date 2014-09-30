@@ -1,0 +1,14 @@
+table, tr, td {
+    border: 1px solid black;
+}
+table {
+    width: 500px;
+    font-size: 20px;
+}
+    table thead {
+        font-size: 28px;
+        text-align: center;
+    }
+    table tfoot {
+        text-align: right;
+    }

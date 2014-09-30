@@ -1,0 +1,49 @@
+#wrapper {
+            font-style: italic;
+            font-family: tahoma;
+            font-size: 13px;
+            background-color: lightpink;
+        }
+        h1 {
+            text-align: left;
+            padding-left: 75px;
+        }
+        form {
+            width: 30%;
+            overflow: auto;
+        }
+        fieldset {
+            border: none;
+            width: 43%;
+            float: left;
+        }
+        input, select {
+            width: 95%;
+        }
+        .top {
+            margin-bottom: 12%;
+        }
+        .time {
+            width: 45%;
+        }
+        .check {
+            width: 7%;
+        }
+        .timeInterval {
+            display: block;
+        }
+        .years div {
+            float: left;
+            width: 29%;
+            margin-left: 5%;
+        }
+        .years div:first-child {
+            margin-left: 0;
+        }
+        .years label {
+            display: block;
+        }
+        button {
+            width: 95%;
+            padding: 1%;
+        }
