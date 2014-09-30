@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\17.Perimeter-Area-of-Polygon\bin\Debug\17.Perimeter-Area-of-Polygon.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\17.Perimeter-Area-of-Polygon\bin\Debug\17.Perimeter-Area-of-Polygon.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\17.Perimeter-Area-of-Polygon\bin\Debug\17.Perimeter-Area-of-Polygon.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\17.Perimeter-Area-of-Polygon\obj\Debug\17.Perimeter-Area-of-Polygon.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\17.Perimeter-Area-of-Polygon\obj\Debug\17.Perimeter-Area-of-Polygon.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\17.Perimeter-Area-of-Polygon\obj\Debug\17.Perimeter-Area-of-Polygon.pdb

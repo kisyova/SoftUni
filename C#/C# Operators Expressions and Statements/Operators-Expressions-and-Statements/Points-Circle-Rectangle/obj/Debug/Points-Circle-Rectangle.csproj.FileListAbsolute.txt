@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Points-Circle-Rectangle\bin\Debug\Points-Circle-Rectangle.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Points-Circle-Rectangle\bin\Debug\Points-Circle-Rectangle.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Points-Circle-Rectangle\bin\Debug\Points-Circle-Rectangle.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Points-Circle-Rectangle\obj\Debug\Points-Circle-Rectangle.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Points-Circle-Rectangle\obj\Debug\Points-Circle-Rectangle.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Points-Circle-Rectangle\obj\Debug\Points-Circle-Rectangle.pdb

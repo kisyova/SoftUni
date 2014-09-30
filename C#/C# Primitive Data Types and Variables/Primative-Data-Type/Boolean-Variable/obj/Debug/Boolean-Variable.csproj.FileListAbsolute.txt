@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Boolean-Variable\bin\Debug\Boolean-Variable.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Boolean-Variable\bin\Debug\Boolean-Variable.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Boolean-Variable\bin\Debug\Boolean-Variable.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Boolean-Variable\obj\Debug\Boolean-Variable.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Boolean-Variable\obj\Debug\Boolean-Variable.pdb

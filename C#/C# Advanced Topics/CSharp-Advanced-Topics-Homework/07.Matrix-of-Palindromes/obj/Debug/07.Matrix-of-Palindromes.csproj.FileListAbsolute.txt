@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\07.Matrix-of-Palindromes\bin\Debug\07.Matrix-of-Palindromes.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\07.Matrix-of-Palindromes\bin\Debug\07.Matrix-of-Palindromes.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\07.Matrix-of-Palindromes\bin\Debug\07.Matrix-of-Palindromes.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\07.Matrix-of-Palindromes\obj\Debug\07.Matrix-of-Palindromes.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\07.Matrix-of-Palindromes\obj\Debug\07.Matrix-of-Palindromes.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\07.Matrix-of-Palindromes\obj\Debug\07.Matrix-of-Palindromes.pdb

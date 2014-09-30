@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Gravitation-on-the-Moon\bin\Debug\Gravitation-on-the-Moon.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Gravitation-on-the-Moon\bin\Debug\Gravitation-on-the-Moon.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Gravitation-on-the-Moon\bin\Debug\Gravitation-on-the-Moon.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Gravitation-on-the-Moon\obj\Debug\Gravitation-on-the-Moon.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Gravitation-on-the-Moon\obj\Debug\Gravitation-on-the-Moon.pdb

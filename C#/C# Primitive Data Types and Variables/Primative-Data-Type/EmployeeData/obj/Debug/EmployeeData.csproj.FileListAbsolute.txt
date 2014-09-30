@@ -1,0 +1,6 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\EmployeeData\obj\Debug\EmployeeData.pdb

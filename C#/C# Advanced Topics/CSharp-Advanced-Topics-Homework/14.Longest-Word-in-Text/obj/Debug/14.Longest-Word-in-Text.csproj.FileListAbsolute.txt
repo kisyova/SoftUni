@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\14.Longest-Word-in-Text\bin\Debug\14.Longest-Word-in-Text.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\14.Longest-Word-in-Text\bin\Debug\14.Longest-Word-in-Text.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\14.Longest-Word-in-Text\bin\Debug\14.Longest-Word-in-Text.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\14.Longest-Word-in-Text\obj\Debug\14.Longest-Word-in-Text.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\14.Longest-Word-in-Text\obj\Debug\14.Longest-Word-in-Text.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\14.Longest-Word-in-Text\obj\Debug\14.Longest-Word-in-Text.pdb

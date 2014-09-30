@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.pdb

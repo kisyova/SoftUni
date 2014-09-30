@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.Zero-Subset\bin\Debug\12.Zero-Subset.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.Zero-Subset\bin\Debug\12.Zero-Subset.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.Zero-Subset\bin\Debug\12.Zero-Subset.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.Zero-Subset\obj\Debug\12.Zero-Subset.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.Zero-Subset\obj\Debug\12.Zero-Subset.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\12.Zero-Subset\obj\Debug\12.Zero-Subset.pdb

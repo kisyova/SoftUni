@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_10.Fibonacci-Numbers\bin\Debug\_10.Fibonacci-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_10.Fibonacci-Numbers\bin\Debug\_10.Fibonacci-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_10.Fibonacci-Numbers\bin\Debug\_10.Fibonacci-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_10.Fibonacci-Numbers\obj\Debug\_10.Fibonacci-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_10.Fibonacci-Numbers\obj\Debug\_10.Fibonacci-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_10.Fibonacci-Numbers\obj\Debug\_10.Fibonacci-Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_8.Numbers-from-1-to-N\bin\Debug\_8.Numbers-from-1-to-N.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_8.Numbers-from-1-to-N\bin\Debug\_8.Numbers-from-1-to-N.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_8.Numbers-from-1-to-N\bin\Debug\_8.Numbers-from-1-to-N.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_8.Numbers-from-1-to-N\obj\Debug\_8.Numbers-from-1-to-N.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_8.Numbers-from-1-to-N\obj\Debug\_8.Numbers-from-1-to-N.pdb

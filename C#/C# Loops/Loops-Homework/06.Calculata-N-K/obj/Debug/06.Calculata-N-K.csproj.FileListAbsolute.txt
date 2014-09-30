@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\06.Calculata-N-K\bin\Debug\06.Calculata-N-K.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\06.Calculata-N-K\bin\Debug\06.Calculata-N-K.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\06.Calculata-N-K\bin\Debug\06.Calculata-N-K.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\06.Calculata-N-K\obj\Debug\06.Calculata-N-K.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\06.Calculata-N-K\obj\Debug\06.Calculata-N-K.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\06.Calculata-N-K\obj\Debug\06.Calculata-N-K.pdb

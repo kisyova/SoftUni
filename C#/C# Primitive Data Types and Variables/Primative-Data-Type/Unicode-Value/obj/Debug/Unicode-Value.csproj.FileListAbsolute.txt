@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Unicode-Value\bin\Debug\Unicode-Value.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Unicode-Value\bin\Debug\Unicode-Value.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Unicode-Value\bin\Debug\Unicode-Value.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Unicode-Value\obj\Debug\Unicode-Value.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Unicode-Value\obj\Debug\Unicode-Value.pdb

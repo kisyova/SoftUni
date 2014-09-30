@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\bin\Debug\07.Combinations.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\bin\Debug\07.Combinations.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\bin\Debug\07.Combinations.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\obj\Debug\07.Combinations.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\07.Combinations\obj\Debug\07.Combinations.pdb

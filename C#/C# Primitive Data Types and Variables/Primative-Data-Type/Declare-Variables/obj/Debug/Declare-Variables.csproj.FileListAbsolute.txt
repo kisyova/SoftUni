@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Declare-Variables\bin\Debug\Declare-Variables.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Declare-Variables\bin\Debug\Declare-Variables.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Declare-Variables\bin\Debug\Declare-Variables.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Declare-Variables\obj\Debug\Declare-Variables.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Declare-Variables\obj\Debug\Declare-Variables.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Declare-Variables\obj\Debug\Declare-Variables.pdb

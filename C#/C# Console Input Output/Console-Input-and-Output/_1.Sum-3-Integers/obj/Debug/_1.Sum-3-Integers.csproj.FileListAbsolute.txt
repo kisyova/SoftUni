@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_1.Sum-3-Integers\bin\Debug\_1.Sum-3-Integers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_1.Sum-3-Integers\bin\Debug\_1.Sum-3-Integers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_1.Sum-3-Integers\bin\Debug\_1.Sum-3-Integers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_1.Sum-3-Integers\obj\Debug\_1.Sum-3-Integers.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_1.Sum-3-Integers\obj\Debug\_1.Sum-3-Integers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_1.Sum-3-Integers\obj\Debug\_1.Sum-3-Integers.pdb

@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Variable-in-Hexadecimal-Format\bin\Debug\Variable-in-Hexadecimal-Format.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Variable-in-Hexadecimal-Format\bin\Debug\Variable-in-Hexadecimal-Format.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Variable-in-Hexadecimal-Format\bin\Debug\Variable-in-Hexadecimal-Format.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Variable-in-Hexadecimal-Format\obj\Debug\Variable-in-Hexadecimal-Format.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Variable-in-Hexadecimal-Format\obj\Debug\Variable-in-Hexadecimal-Format.pdb

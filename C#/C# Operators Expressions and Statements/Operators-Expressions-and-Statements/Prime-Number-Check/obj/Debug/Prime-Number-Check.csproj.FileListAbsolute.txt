@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Prime-Number-Check\bin\Debug\Prime-Number-Check.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Prime-Number-Check\obj\Debug\Prime-Number-Check.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Prime-Number-Check\obj\Debug\Prime-Number-Check.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Prime-Number-Check\obj\Debug\Prime-Number-Check.csprojResolveAssemblyReference.cache

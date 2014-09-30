@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03.Primes-in-Given-Range\bin\Debug\03.Primes-in-Given-Range.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03.Primes-in-Given-Range\bin\Debug\03.Primes-in-Given-Range.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03.Primes-in-Given-Range\bin\Debug\03.Primes-in-Given-Range.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03.Primes-in-Given-Range\obj\Debug\03.Primes-in-Given-Range.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03.Primes-in-Given-Range\obj\Debug\03.Primes-in-Given-Range.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\03.Primes-in-Given-Range\obj\Debug\03.Primes-in-Given-Range.pdb

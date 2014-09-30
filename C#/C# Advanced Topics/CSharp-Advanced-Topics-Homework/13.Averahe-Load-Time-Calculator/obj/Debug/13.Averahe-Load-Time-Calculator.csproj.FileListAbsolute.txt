@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\13.Averahe-Load-Time-Calculator\bin\Debug\13.Averahe-Load-Time-Calculator.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\13.Averahe-Load-Time-Calculator\bin\Debug\13.Averahe-Load-Time-Calculator.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\13.Averahe-Load-Time-Calculator\bin\Debug\13.Averahe-Load-Time-Calculator.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\13.Averahe-Load-Time-Calculator\obj\Debug\13.Averahe-Load-Time-Calculator.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\13.Averahe-Load-Time-Calculator\obj\Debug\13.Averahe-Load-Time-Calculator.pdb

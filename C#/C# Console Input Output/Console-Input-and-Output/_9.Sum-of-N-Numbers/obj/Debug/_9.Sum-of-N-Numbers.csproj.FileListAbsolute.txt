@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_9.Sum-of-N-Numbers\bin\Debug\_9.Sum-of-N-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_9.Sum-of-N-Numbers\bin\Debug\_9.Sum-of-N-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_9.Sum-of-N-Numbers\bin\Debug\_9.Sum-of-N-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_9.Sum-of-N-Numbers\obj\Debug\_9.Sum-of-N-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_9.Sum-of-N-Numbers\obj\Debug\_9.Sum-of-N-Numbers.pdb

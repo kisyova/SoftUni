@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Float-or-Double\bin\Debug\Float-or-Double.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Float-or-Double\bin\Debug\Float-or-Double.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Float-or-Double\bin\Debug\Float-or-Double.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Float-or-Double\obj\Debug\Float-or-Double.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Float-or-Double\obj\Debug\Float-or-Double.pdb

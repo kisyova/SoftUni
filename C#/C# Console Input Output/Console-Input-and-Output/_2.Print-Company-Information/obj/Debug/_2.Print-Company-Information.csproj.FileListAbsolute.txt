@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_2.Print-Company-Information\bin\Debug\_2.Print-Company-Information.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_2.Print-Company-Information\bin\Debug\_2.Print-Company-Information.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_2.Print-Company-Information\bin\Debug\_2.Print-Company-Information.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_2.Print-Company-Information\obj\Debug\_2.Print-Company-Information.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_2.Print-Company-Information\obj\Debug\_2.Print-Company-Information.pdb

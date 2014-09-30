@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06.Longest-Area-in-Array\bin\Debug\06.Longest-Area-in-Array.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06.Longest-Area-in-Array\bin\Debug\06.Longest-Area-in-Array.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06.Longest-Area-in-Array\bin\Debug\06.Longest-Area-in-Array.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06.Longest-Area-in-Array\obj\Debug\06.Longest-Area-in-Array.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06.Longest-Area-in-Array\obj\Debug\06.Longest-Area-in-Array.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\06.Longest-Area-in-Array\obj\Debug\06.Longest-Area-in-Array.pdb

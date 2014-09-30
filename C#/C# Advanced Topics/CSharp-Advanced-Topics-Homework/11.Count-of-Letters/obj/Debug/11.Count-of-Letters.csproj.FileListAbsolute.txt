@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\11.Count-of-Letters\bin\Debug\11.Count-of-Letters.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\11.Count-of-Letters\bin\Debug\11.Count-of-Letters.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\11.Count-of-Letters\bin\Debug\11.Count-of-Letters.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\11.Count-of-Letters\obj\Debug\11.Count-of-Letters.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\11.Count-of-Letters\obj\Debug\11.Count-of-Letters.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\11.Count-of-Letters\obj\Debug\11.Count-of-Letters.csprojResolveAssemblyReference.cache

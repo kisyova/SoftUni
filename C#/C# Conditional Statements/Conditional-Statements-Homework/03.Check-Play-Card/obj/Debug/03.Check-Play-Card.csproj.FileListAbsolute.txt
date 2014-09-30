@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.Check-Play-Card\bin\Debug\03.Check-Play-Card.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.Check-Play-Card\bin\Debug\03.Check-Play-Card.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.Check-Play-Card\bin\Debug\03.Check-Play-Card.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.Check-Play-Card\obj\Debug\03.Check-Play-Card.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\03.Check-Play-Card\obj\Debug\03.Check-Play-Card.pdb

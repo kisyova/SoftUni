@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\07.Sort-Three-Numbers\bin\Debug\07.Sort-Three-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\07.Sort-Three-Numbers\bin\Debug\07.Sort-Three-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\07.Sort-Three-Numbers\bin\Debug\07.Sort-Three-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\07.Sort-Three-Numbers\obj\Debug\07.Sort-Three-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\07.Sort-Three-Numbers\obj\Debug\07.Sort-Three-Numbers.pdb

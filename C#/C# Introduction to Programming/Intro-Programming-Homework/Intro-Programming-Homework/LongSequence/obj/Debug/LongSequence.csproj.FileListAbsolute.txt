@@ -1,0 +1,5 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb

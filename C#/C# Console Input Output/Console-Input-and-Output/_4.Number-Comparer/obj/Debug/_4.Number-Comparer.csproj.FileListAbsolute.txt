@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_4.Number-Comparer\bin\Debug\_4.Number-Comparer.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_4.Number-Comparer\bin\Debug\_4.Number-Comparer.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_4.Number-Comparer\bin\Debug\_4.Number-Comparer.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_4.Number-Comparer\obj\Debug\_4.Number-Comparer.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_4.Number-Comparer\obj\Debug\_4.Number-Comparer.pdb

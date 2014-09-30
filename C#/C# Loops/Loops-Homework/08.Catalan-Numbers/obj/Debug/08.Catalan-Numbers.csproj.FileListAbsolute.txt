@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\08.Catalan-Numbers\bin\Debug\08.Catalan-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\08.Catalan-Numbers\bin\Debug\08.Catalan-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\08.Catalan-Numbers\bin\Debug\08.Catalan-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\08.Catalan-Numbers\obj\Debug\08.Catalan-Numbers.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\08.Catalan-Numbers\obj\Debug\08.Catalan-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\08.Catalan-Numbers\obj\Debug\08.Catalan-Numbers.pdb

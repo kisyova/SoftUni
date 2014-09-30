@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_7.Sum-of-5-numbers\bin\Debug\_7.Sum-of-5-numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_7.Sum-of-5-numbers\bin\Debug\_7.Sum-of-5-numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_7.Sum-of-5-numbers\bin\Debug\_7.Sum-of-5-numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_7.Sum-of-5-numbers\obj\Debug\_7.Sum-of-5-numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_7.Sum-of-5-numbers\obj\Debug\_7.Sum-of-5-numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_6.Quadratic-Equation\bin\Debug\_6.Quadratic-Equation.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_6.Quadratic-Equation\obj\Debug\_6.Quadratic-Equation.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_6.Quadratic-Equation\bin\Debug\_6.Quadratic-Equation.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_6.Quadratic-Equation\bin\Debug\_6.Quadratic-Equation.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_6.Quadratic-Equation\obj\Debug\_6.Quadratic-Equation.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_6.Quadratic-Equation\obj\Debug\_6.Quadratic-Equation.pdb

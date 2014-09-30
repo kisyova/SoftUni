@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Strings-and-Objects\bin\Debug\Strings-and-Objects.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Strings-and-Objects\bin\Debug\Strings-and-Objects.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Strings-and-Objects\bin\Debug\Strings-and-Objects.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Strings-and-Objects\obj\Debug\Strings-and-Objects.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Strings-and-Objects\obj\Debug\Strings-and-Objects.pdb

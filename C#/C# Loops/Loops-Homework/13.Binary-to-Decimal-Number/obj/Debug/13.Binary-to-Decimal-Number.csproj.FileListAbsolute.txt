@@ -1,0 +1,6 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\13.Binary-to-Decimal-Number\bin\Debug\13.Binary-to-Decimal-Number.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\13.Binary-to-Decimal-Number\bin\Debug\13.Binary-to-Decimal-Number.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\13.Binary-to-Decimal-Number\bin\Debug\13.Binary-to-Decimal-Number.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\13.Binary-to-Decimal-Number\obj\Debug\13.Binary-to-Decimal-Number.csprojResolveAssemblyReference.cache
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\13.Binary-to-Decimal-Number\obj\Debug\13.Binary-to-Decimal-Number.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\13.Binary-to-Decimal-Number\obj\Debug\13.Binary-to-Decimal-Number.pdb

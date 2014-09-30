@@ -1,0 +1,5 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Print-the-ASCII-table\bin\Debug\Print-the-ASCII-table.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Print-the-ASCII-table\bin\Debug\Print-the-ASCII-table.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Print-the-ASCII-table\bin\Debug\Print-the-ASCII-table.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Print-the-ASCII-table\obj\Debug\Print-the-ASCII-table.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Print-the-ASCII-table\obj\Debug\Print-the-ASCII-table.pdb

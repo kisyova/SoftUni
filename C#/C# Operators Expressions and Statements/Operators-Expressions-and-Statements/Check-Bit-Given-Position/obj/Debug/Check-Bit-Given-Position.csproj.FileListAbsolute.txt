@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Check-Bit-Given-Position\bin\Debug\Check-Bit-Given-Position.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Check-Bit-Given-Position\bin\Debug\Check-Bit-Given-Position.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Check-Bit-Given-Position\bin\Debug\Check-Bit-Given-Position.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Check-Bit-Given-Position\obj\Debug\Check-Bit-Given-Position.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Check-Bit-Given-Position\obj\Debug\Check-Bit-Given-Position.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Check-Bit-Given-Position\obj\Debug\Check-Bit-Given-Position.pdb

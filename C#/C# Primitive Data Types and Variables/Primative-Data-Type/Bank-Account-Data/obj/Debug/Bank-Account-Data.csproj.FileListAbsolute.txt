@@ -1,0 +1,5 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Bank-Account-Data\bin\Debug\Bank-Account-Data.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Bank-Account-Data\obj\Debug\Bank-Account-Data.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Bank-Account-Data\obj\Debug\Bank-Account-Data.pdb

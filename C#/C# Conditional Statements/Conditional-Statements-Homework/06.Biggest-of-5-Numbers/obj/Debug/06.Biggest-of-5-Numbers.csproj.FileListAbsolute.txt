@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.Biggest-of-5-Numbers\bin\Debug\06.Biggest-of-5-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.Biggest-of-5-Numbers\bin\Debug\06.Biggest-of-5-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.Biggest-of-5-Numbers\bin\Debug\06.Biggest-of-5-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.Biggest-of-5-Numbers\obj\Debug\06.Biggest-of-5-Numbers.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.Biggest-of-5-Numbers\obj\Debug\06.Biggest-of-5-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\06.Biggest-of-5-Numbers\obj\Debug\06.Biggest-of-5-Numbers.pdb

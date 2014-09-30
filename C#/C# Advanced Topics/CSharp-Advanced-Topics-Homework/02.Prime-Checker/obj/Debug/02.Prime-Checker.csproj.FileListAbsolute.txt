@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\02.Prime-Checker\bin\Debug\02.Prime-Checker.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\02.Prime-Checker\bin\Debug\02.Prime-Checker.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\02.Prime-Checker\bin\Debug\02.Prime-Checker.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\02.Prime-Checker\obj\Debug\02.Prime-Checker.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\02.Prime-Checker\obj\Debug\02.Prime-Checker.pdb

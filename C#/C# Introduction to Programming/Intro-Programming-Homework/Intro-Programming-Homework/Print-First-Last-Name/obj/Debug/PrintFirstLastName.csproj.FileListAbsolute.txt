@@ -1,0 +1,3 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-First-Last-Name\bin\Debug\Print-First-Last-Name.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-First-Last-Name\obj\Debug\Print-First-Last-Name.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-First-Last-Name\obj\Debug\Print-First-Last-Name.pdb

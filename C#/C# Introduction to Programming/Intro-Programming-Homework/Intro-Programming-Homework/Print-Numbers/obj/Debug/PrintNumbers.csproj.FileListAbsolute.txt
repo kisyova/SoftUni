@@ -1,0 +1,3 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Numbers\bin\Debug\Print-Numbers.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-Numbers\obj\Debug\Print-Numbers.pdb

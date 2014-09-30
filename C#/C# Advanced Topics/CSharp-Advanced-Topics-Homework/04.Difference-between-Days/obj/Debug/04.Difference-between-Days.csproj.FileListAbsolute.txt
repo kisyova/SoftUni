@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\04.Difference-between-Days\bin\Debug\04.Difference-between-Days.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\04.Difference-between-Days\bin\Debug\04.Difference-between-Days.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\04.Difference-between-Days\bin\Debug\04.Difference-between-Days.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\04.Difference-between-Days\obj\Debug\04.Difference-between-Days.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\04.Difference-between-Days\obj\Debug\04.Difference-between-Days.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\04.Difference-between-Days\obj\Debug\04.Difference-between-Days.pdb

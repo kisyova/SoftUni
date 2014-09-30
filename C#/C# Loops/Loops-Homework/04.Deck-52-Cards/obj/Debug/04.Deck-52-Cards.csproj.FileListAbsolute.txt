@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\04.Deck-52-Cards\bin\Debug\04.Deck-52-Cards.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\04.Deck-52-Cards\bin\Debug\04.Deck-52-Cards.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\04.Deck-52-Cards\bin\Debug\04.Deck-52-Cards.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\04.Deck-52-Cards\obj\Debug\04.Deck-52-Cards.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\04.Deck-52-Cards\obj\Debug\04.Deck-52-Cards.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\04.Deck-52-Cards\obj\Debug\04.Deck-52-Cards.pdb

@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\03.Min-Max-Sum-Average-Numbers\bin\Debug\03.Min-Max-Sum-Average-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\03.Min-Max-Sum-Average-Numbers\bin\Debug\03.Min-Max-Sum-Average-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\03.Min-Max-Sum-Average-Numbers\bin\Debug\03.Min-Max-Sum-Average-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\03.Min-Max-Sum-Average-Numbers\obj\Debug\03.Min-Max-Sum-Average-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\03.Min-Max-Sum-Average-Numbers\obj\Debug\03.Min-Max-Sum-Average-Numbers.pdb

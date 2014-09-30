@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\10.Beer-Time\bin\Debug\10.Beer-Time.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\10.Beer-Time\bin\Debug\10.Beer-Time.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\10.Beer-Time\bin\Debug\10.Beer-Time.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\10.Beer-Time\obj\Debug\10.Beer-Time.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\10.Beer-Time\obj\Debug\10.Beer-Time.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\10.Beer-Time\obj\Debug\10.Beer-Time.pdb

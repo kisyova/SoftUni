@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\11.Numbers-as-Words\bin\Debug\11.Numbers-as-Words.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\11.Numbers-as-Words\bin\Debug\11.Numbers-as-Words.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\11.Numbers-as-Words\bin\Debug\11.Numbers-as-Words.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\11.Numbers-as-Words\obj\Debug\11.Numbers-as-Words.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\11.Numbers-as-Words\obj\Debug\11.Numbers-as-Words.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\11.Numbers-as-Words\obj\Debug\11.Numbers-as-Words.pdb

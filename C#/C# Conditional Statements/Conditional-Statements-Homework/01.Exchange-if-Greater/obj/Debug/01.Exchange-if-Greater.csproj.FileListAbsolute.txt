@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\01.Exchange-if-Greater\bin\Debug\01.Exchange-if-Greater.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\01.Exchange-if-Greater\bin\Debug\01.Exchange-if-Greater.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\01.Exchange-if-Greater\bin\Debug\01.Exchange-if-Greater.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\01.Exchange-if-Greater\obj\Debug\01.Exchange-if-Greater.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\01.Exchange-if-Greater\obj\Debug\01.Exchange-if-Greater.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\01.Exchange-if-Greater\obj\Debug\01.Exchange-if-Greater.pdb

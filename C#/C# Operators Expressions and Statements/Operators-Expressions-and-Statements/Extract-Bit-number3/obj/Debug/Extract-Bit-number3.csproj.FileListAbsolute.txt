@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-number3\bin\Debug\Extract-Bit-number3.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-number3\bin\Debug\Extract-Bit-number3.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-number3\bin\Debug\Extract-Bit-number3.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-number3\obj\Debug\Extract-Bit-number3.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-number3\obj\Debug\Extract-Bit-number3.pdb

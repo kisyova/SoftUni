@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Comparing-Floats\bin\Debug\Comparing-Floats.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Comparing-Floats\bin\Debug\Comparing-Floats.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Comparing-Floats\bin\Debug\Comparing-Floats.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Comparing-Floats\obj\Debug\Comparing-Floats.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Primative-Data-Type\Comparing-Floats\obj\Debug\Comparing-Floats.pdb

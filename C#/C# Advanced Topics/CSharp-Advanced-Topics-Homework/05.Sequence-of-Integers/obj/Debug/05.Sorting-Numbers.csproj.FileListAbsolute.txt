@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\05.Sequence-of-Integers\obj\Debug\05.Sorting-Numbers.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\05.Sequence-of-Integers\bin\Debug\05.Sequence-of-Integers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\05.Sequence-of-Integers\bin\Debug\05.Sequence-of-Integers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\05.Sequence-of-Integers\bin\Debug\05.Sequence-of-Integers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\05.Sequence-of-Integers\obj\Debug\05.Sequence-of-Integers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\05.Sequence-of-Integers\obj\Debug\05.Sequence-of-Integers.pdb

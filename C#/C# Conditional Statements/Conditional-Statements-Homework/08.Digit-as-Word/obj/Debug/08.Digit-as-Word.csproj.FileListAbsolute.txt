@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.pdb

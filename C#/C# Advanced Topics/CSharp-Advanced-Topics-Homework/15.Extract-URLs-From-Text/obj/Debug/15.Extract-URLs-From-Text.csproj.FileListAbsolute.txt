@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\15.Extract-URLs-From-Text\bin\Debug\15.Extract-URLs-From-Text.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\15.Extract-URLs-From-Text\bin\Debug\15.Extract-URLs-From-Text.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\15.Extract-URLs-From-Text\bin\Debug\15.Extract-URLs-From-Text.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\15.Extract-URLs-From-Text\obj\Debug\15.Extract-URLs-From-Text.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\15.Extract-URLs-From-Text\obj\Debug\15.Extract-URLs-From-Text.pdb

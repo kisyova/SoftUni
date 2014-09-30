@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\02.Not-Divisible-3-7\bin\Debug\02.Not-Divisible-3-7.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\02.Not-Divisible-3-7\bin\Debug\02.Not-Divisible-3-7.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\02.Not-Divisible-3-7\bin\Debug\02.Not-Divisible-3-7.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\02.Not-Divisible-3-7\obj\Debug\02.Not-Divisible-3-7.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\02.Not-Divisible-3-7\obj\Debug\02.Not-Divisible-3-7.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\02.Not-Divisible-3-7\obj\Debug\02.Not-Divisible-3-7.pdb

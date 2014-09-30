@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\09.Int-Double-String\bin\Debug\09.Int-Double-String.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\09.Int-Double-String\bin\Debug\09.Int-Double-String.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\09.Int-Double-String\bin\Debug\09.Int-Double-String.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\09.Int-Double-String\obj\Debug\09.Int-Double-String.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\09.Int-Double-String\obj\Debug\09.Int-Double-String.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Conditional-Statements-Homework\09.Int-Double-String\obj\Debug\09.Int-Double-String.pdb

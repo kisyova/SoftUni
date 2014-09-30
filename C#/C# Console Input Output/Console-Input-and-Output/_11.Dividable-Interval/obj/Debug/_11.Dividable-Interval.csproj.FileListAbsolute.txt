@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_11.Dividable-Interval\bin\Debug\_11.Dividable-Interval.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_11.Dividable-Interval\bin\Debug\_11.Dividable-Interval.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_11.Dividable-Interval\bin\Debug\_11.Dividable-Interval.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_11.Dividable-Interval\obj\Debug\_11.Dividable-Interval.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_11.Dividable-Interval\obj\Debug\_11.Dividable-Interval.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_11.Dividable-Interval\obj\Debug\_11.Dividable-Interval.pdb

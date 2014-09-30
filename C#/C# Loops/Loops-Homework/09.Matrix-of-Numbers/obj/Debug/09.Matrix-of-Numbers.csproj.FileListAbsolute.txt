@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\09.Matrix-of-Numbers\bin\Debug\09.Matrix-of-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\09.Matrix-of-Numbers\bin\Debug\09.Matrix-of-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\09.Matrix-of-Numbers\bin\Debug\09.Matrix-of-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\09.Matrix-of-Numbers\obj\Debug\09.Matrix-of-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\09.Matrix-of-Numbers\obj\Debug\09.Matrix-of-Numbers.pdb

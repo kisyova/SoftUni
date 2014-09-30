@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Four-Digit-Number\bin\Debug\Four-Digit-Number.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Four-Digit-Number\obj\Debug\Four-Digit-Number.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Four-Digit-Number\obj\Debug\Four-Digit-Number.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Four-Digit-Number\obj\Debug\Four-Digit-Number.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\bin\Debug\Print-My-Name.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\obj\Debug\Print-My-Name.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\obj\Debug\Print-My-Name.pdb

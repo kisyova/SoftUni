@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Trapezoids\bin\Debug\Trapezoids.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Trapezoids\bin\Debug\Trapezoids.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Trapezoids\bin\Debug\Trapezoids.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Trapezoids\obj\Debug\Trapezoids.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Trapezoids\obj\Debug\Trapezoids.pdb

@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_3.Circle-Perimeter-Area\bin\Debug\_3.Circle-Perimeter-Area.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_3.Circle-Perimeter-Area\bin\Debug\_3.Circle-Perimeter-Area.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_3.Circle-Perimeter-Area\bin\Debug\_3.Circle-Perimeter-Area.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_3.Circle-Perimeter-Area\obj\Debug\_3.Circle-Perimeter-Area.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Console-Input-and-Output\_3.Circle-Perimeter-Area\obj\Debug\_3.Circle-Perimeter-Area.pdb

@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\12.Count-of-Names\bin\Debug\12.Count-of-Names.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\12.Count-of-Names\bin\Debug\12.Count-of-Names.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\12.Count-of-Names\bin\Debug\12.Count-of-Names.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\12.Count-of-Names\obj\Debug\12.Count-of-Names.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\12.Count-of-Names\obj\Debug\12.Count-of-Names.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\12.Count-of-Names\obj\Debug\12.Count-of-Names.pdb

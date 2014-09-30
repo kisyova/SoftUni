@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\11.Random-Numbers\bin\Debug\11.Random-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\11.Random-Numbers\bin\Debug\11.Random-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\11.Random-Numbers\bin\Debug\11.Random-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\11.Random-Numbers\obj\Debug\11.Random-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\11.Random-Numbers\obj\Debug\11.Random-Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\bin\Debug\Print-My-Name.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\bin\Debug\Print-My-Name.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\bin\Debug\Print-My-Name.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\obj\Debug\Print-My-Name.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Intro-Programming-Homework\Print-My-Name\obj\Debug\Print-My-Name.pdb

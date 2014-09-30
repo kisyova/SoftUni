@@ -1,0 +1,5 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Exchanging-Variable-Values\bin\Debug\Exchanging-Variable-Values.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Exchanging-Variable-Values\bin\Debug\Exchanging-Variable-Values.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Exchanging-Variable-Values\bin\Debug\Exchanging-Variable-Values.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Exchanging-Variable-Values\obj\Debug\Exchanging-Variable-Values.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Primative-Data-Type\Exchanging-Variable-Values\obj\Debug\Exchanging-Variable-Values.pdb

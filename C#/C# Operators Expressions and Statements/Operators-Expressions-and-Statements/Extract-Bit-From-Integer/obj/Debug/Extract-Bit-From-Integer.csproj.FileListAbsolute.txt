@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-From-Integer\bin\Debug\Extract-Bit-From-Integer.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-From-Integer\obj\Debug\Extract-Bit-From-Integer.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-From-Integer\bin\Debug\Extract-Bit-From-Integer.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-From-Integer\bin\Debug\Extract-Bit-From-Integer.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-From-Integer\obj\Debug\Extract-Bit-From-Integer.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\Extract-Bit-From-Integer\obj\Debug\Extract-Bit-From-Integer.pdb

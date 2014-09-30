@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\09.Remove-Names\bin\Debug\09.Remove-Names.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\09.Remove-Names\obj\Debug\09.Remove-Names.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\09.Remove-Names\bin\Debug\09.Remove-Names.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\09.Remove-Names\bin\Debug\09.Remove-Names.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\09.Remove-Names\obj\Debug\09.Remove-Names.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\09.Remove-Names\obj\Debug\09.Remove-Names.pdb

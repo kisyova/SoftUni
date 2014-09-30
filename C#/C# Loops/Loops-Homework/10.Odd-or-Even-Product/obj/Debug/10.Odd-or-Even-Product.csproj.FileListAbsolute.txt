@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\10.Odd-or-Even-Product\bin\Debug\10.Odd-or-Even-Product.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\10.Odd-or-Even-Product\bin\Debug\10.Odd-or-Even-Product.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\10.Odd-or-Even-Product\bin\Debug\10.Odd-or-Even-Product.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\10.Odd-or-Even-Product\obj\Debug\10.Odd-or-Even-Product.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\10.Odd-or-Even-Product\obj\Debug\10.Odd-or-Even-Product.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\10.Odd-or-Even-Product\obj\Debug\10.Odd-or-Even-Product.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\19.Spiral-Matrix\bin\Debug\19.Spiral-Matrix.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\19.Spiral-Matrix\bin\Debug\19.Spiral-Matrix.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\19.Spiral-Matrix\bin\Debug\19.Spiral-Matrix.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\19.Spiral-Matrix\obj\Debug\19.Spiral-Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\19.Spiral-Matrix\obj\Debug\19.Spiral-Matrix.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\19.Spiral-Matrix\obj\Debug\19.Spiral-Matrix.pdb

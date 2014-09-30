@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\08.Longest-NonDecreasing-Subsequence\bin\Debug\08.Longest-NonDecreasing-Subsequence.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\08.Longest-NonDecreasing-Subsequence\bin\Debug\08.Longest-NonDecreasing-Subsequence.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\08.Longest-NonDecreasing-Subsequence\bin\Debug\08.Longest-NonDecreasing-Subsequence.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\08.Longest-NonDecreasing-Subsequence\obj\Debug\08.Longest-NonDecreasing-Subsequence.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\08.Longest-NonDecreasing-Subsequence\obj\Debug\08.Longest-NonDecreasing-Subsequence.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\CSharp-Advanced-Topics-Homework\08.Longest-NonDecreasing-Subsequence\obj\Debug\08.Longest-NonDecreasing-Subsequence.csprojResolveAssemblyReference.cache

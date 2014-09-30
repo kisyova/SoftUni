@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\12.Randomize-Numbers\bin\Debug\12.Randomize-Numbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\12.Randomize-Numbers\bin\Debug\12.Randomize-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\12.Randomize-Numbers\bin\Debug\12.Randomize-Numbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\12.Randomize-Numbers\obj\Debug\12.Randomize-Numbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Loops-Homework\12.Randomize-Numbers\obj\Debug\12.Randomize-Numbers.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Loops-Homework\12.Randomize-Numbers\obj\Debug\12.Randomize-Numbers.csprojResolveAssemblyReference.cache
