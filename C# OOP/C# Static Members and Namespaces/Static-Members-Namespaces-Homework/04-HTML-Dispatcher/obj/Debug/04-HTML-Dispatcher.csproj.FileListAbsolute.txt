@@ -1,0 +1,5 @@
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Static-Members-Namespaces-Homework\04-HTML-Dispatcher\bin\Debug\04-HTML-Dispatcher.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Static-Members-Namespaces-Homework\04-HTML-Dispatcher\bin\Debug\04-HTML-Dispatcher.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Static-Members-Namespaces-Homework\04-HTML-Dispatcher\bin\Debug\04-HTML-Dispatcher.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Static-Members-Namespaces-Homework\04-HTML-Dispatcher\obj\Debug\04-HTML-Dispatcher.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\Static-Members-Namespaces-Homework\04-HTML-Dispatcher\obj\Debug\04-HTML-Dispatcher.pdb

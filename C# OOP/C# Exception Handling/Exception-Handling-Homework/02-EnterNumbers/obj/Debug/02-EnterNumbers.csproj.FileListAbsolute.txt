@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Exception-Handling-Homework\02-EnterNumbers\bin\Debug\02-EnterNumbers.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Exception-Handling-Homework\02-EnterNumbers\bin\Debug\02-EnterNumbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Exception-Handling-Homework\02-EnterNumbers\bin\Debug\02-EnterNumbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Exception-Handling-Homework\02-EnterNumbers\obj\Debug\02-EnterNumbers.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Exception-Handling-Homework\02-EnterNumbers\obj\Debug\02-EnterNumbers.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Exception-Handling-Homework\02-EnterNumbers\obj\Debug\02-EnterNumbers.csprojResolveAssemblyReference.cache

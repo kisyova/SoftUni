@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\Other-Types-Homework\03-GenericList\bin\Debug\03-GenericList.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\Other-Types-Homework\03-GenericList\obj\Debug\03-GenericList.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\Other-Types-Homework\03-GenericList\bin\Debug\03-GenericList.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Other-Types-Homework\03-GenericList\bin\Debug\03-GenericList.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\Other-Types-Homework\03-GenericList\obj\Debug\03-GenericList.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\Other-Types-Homework\03-GenericList\obj\Debug\03-GenericList.pdb

@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\04-SULS\04-SULS\bin\Debug\04-SULS.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\04-SULS\04-SULS\obj\Debug\04-SULS.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\04-SULS\04-SULS\bin\Debug\04-SULS.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\04-SULS\04-SULS\bin\Debug\04-SULS.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\04-SULS\04-SULS\obj\Debug\04-SULS.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\04-SULS\04-SULS\obj\Debug\04-SULS.pdb

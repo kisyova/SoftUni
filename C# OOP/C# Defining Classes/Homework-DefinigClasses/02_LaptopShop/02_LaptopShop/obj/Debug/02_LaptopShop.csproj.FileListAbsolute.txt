@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\02_LaptopShop\02_LaptopShop\bin\Debug\02_LaptopShop.exe.config
+c:\users\kameliya\documents\visual studio 2013\Projects\02_LaptopShop\02_LaptopShop\obj\Debug\02_LaptopShop.csprojResolveAssemblyReference.cache
+c:\users\kameliya\documents\visual studio 2013\Projects\02_LaptopShop\02_LaptopShop\bin\Debug\02_LaptopShop.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\02_LaptopShop\02_LaptopShop\bin\Debug\02_LaptopShop.pdb
+c:\users\kameliya\documents\visual studio 2013\Projects\02_LaptopShop\02_LaptopShop\obj\Debug\02_LaptopShop.exe
+c:\users\kameliya\documents\visual studio 2013\Projects\02_LaptopShop\02_LaptopShop\obj\Debug\02_LaptopShop.pdb

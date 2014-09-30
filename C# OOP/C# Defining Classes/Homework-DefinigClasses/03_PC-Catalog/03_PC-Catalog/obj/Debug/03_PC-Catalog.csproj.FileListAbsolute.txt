@@ -1,0 +1,6 @@
+c:\users\kameliya\documents\visual studio 2013\Projects\03_PC-Catalog\03_PC-Catalog\bin\Debug\03_PC-Catalog.exe.config
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\03_PC-Catalog\03_PC-Catalog\bin\Debug\03_PC-Catalog.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\03_PC-Catalog\03_PC-Catalog\bin\Debug\03_PC-Catalog.pdb
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\03_PC-Catalog\03_PC-Catalog\obj\Debug\03_PC-Catalog.csprojResolveAssemblyReference.cache
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\03_PC-Catalog\03_PC-Catalog\obj\Debug\03_PC-Catalog.exe
+C:\Users\Kameliya\Documents\Visual Studio 2013\Projects\03_PC-Catalog\03_PC-Catalog\obj\Debug\03_PC-Catalog.pdb
